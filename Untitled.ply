@@ -1,0 +1,7 @@
+Untitled:
+  url: |+
+    https://ih-beers-api2.herokuapp.com/beers
+
+
+  method: GET
+  headers: {}
